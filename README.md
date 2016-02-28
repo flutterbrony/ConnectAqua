@@ -1,5 +1,5 @@
 # ConnectAqua
-[Français]
+#[Français]
 Le code d'un projet de SIN comptant pour le bac visant a rendre un aquarium connecté. 
 
 #[English]
